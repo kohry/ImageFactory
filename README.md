@@ -1,3 +1,3 @@
 # ImageFactory
 
-This is a Simple Django Image Uploading sample
+This is a Simple Django Image Uploading sample.
